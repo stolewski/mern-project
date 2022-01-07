@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "stolewski dev",
+  "mongoUri": "mongodb+srv://stolewski:tralala@cluster0.aaeys.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
